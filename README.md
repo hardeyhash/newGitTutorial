@@ -1,2 +1,3 @@
 # newGitTutorial
-Another practice repository
+Another practice repository. 
+Continuation of git/github tutorial.
